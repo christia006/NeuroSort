@@ -24,10 +24,6 @@
 - PostgreSQL (dikelola via pgAdmin 4)
 - Streamlit (opsional untuk antarmuka)
 
-## 📌 Mengapa Proyek Ini Relevan dengan Google
+## 🧪 Nilai Tambah
 
-Google adalah perusahaan yang sangat fokus pada pengelolaan dan pencarian informasi. **NeuroSort** meniru arsitektur dasar mesin pencari internal Google (seperti Gmail Search atau Google Drive Smart Search), namun sepenuhnya dijalankan secara lokal. Proyek ini mencerminkan:
-
-- Pemikiran sistemik
-- Privasi pengguna
-- Arsitektur modular dan skalabel
+NeuroSort dirancang untuk meniru kemampuan mesin pencarian internal pada ekosistem enterprise, namun dijalankan secara lokal untuk menjaga privasi dan kontrol penuh terhadap data. Arsitekturnya mencerminkan praktik terbaik dalam pengelolaan pipeline NLP, pemisahan logika, serta penggunaan database relasional sebagai fondasi metadata yang kuat.
