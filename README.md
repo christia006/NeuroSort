@@ -1,29 +1,21 @@
-# 🧠 NeuroSort — Mesin Klasifikasi dan Pencarian Dokumen Lokal Berbasis NLP
+# 🧠 NeuroSort — Aplikasi Klasifikasi & Pencarian Dokumen Secara Lokal
 
-**NeuroSort** adalah aplikasi klasifikasi dokumen pintar dan mesin pencarian semantik yang berjalan sepenuhnya secara lokal. Dengan bantuan teknik NLP dan machine learning, NeuroSort mampu mengklasifikasikan serta mencari dokumen berdasarkan isi secara kontekstual — tanpa koneksi internet, tanpa API key, dan tanpa kompromi privasi.
+**NeuroSort** adalah aplikasi pintar yang bisa mengklasifikasikan dokumen dan melakukan pencarian berdasarkan isi dokumen, semua dilakukan di komputer lokal kamu. Tanpa butuh internet, tanpa API key, dan tanpa risiko data bocor.
 
-## 🎯 Tujuan Proyek
+## 🔍 Apa yang Bisa Dilakukan
 
-- Membuat sistem klasifikasi dokumen otomatis berbasis konten menggunakan NLP (spaCy, TF-IDF).
-- Menyediakan fitur pencarian semantik berbasis vektorisasi dan cosine similarity.
-- Menyimpan metadata dokumen (nama file, kategori, path, tanggal) secara terstruktur di PostgreSQL.
-- Mendemonstrasikan kemampuan software engineer dalam membangun pipeline NLP dan integrasi database secara skalabel dan modular.
+- Baca file `.txt`, `.pdf`, dan `.docx` dari folder lokal.
+- Deteksi isi dokumen dan secara otomatis memberi kategori.
+- Cari dokumen berdasarkan kata kunci atau kalimat yang kamu tulis.
+- Simpan semua data metadata ke PostgreSQL.
 
-## 🧩 Fitur Utama
+## 🛠 Teknologi yang Dipakai
 
-- Input dokumen: `.txt`, `.pdf`, `.docx` dari folder lokal.
-- Klasifikasi otomatis: dokumen diklasifikasikan ke topik/topik utama berdasarkan isi.
-- Pencarian cerdas: ketikkan pertanyaan atau kata kunci dan temukan dokumen relevan.
-- Penyimpanan metadata di PostgreSQL (terhubung via SQLAlchemy).
-- Antarmuka berbasis CLI atau Streamlit (opsional GUI).
+- Python (versi 3.10 ke atas)
+- PostgreSQL (akses pakai pgAdmin 4)
+- NLP pakai spaCy + TF-IDF dari scikit-learn
+- Streamlit kalau mau antarmuka GUI
 
-## 🛠️ Teknologi yang Digunakan
+## 💡 Kenapa Dibuat
 
-- Python 3.10+
-- spaCy · scikit-learn · SQLAlchemy
-- PostgreSQL (dikelola via pgAdmin 4)
-- Streamlit (opsional untuk antarmuka)
-
-## 🧪 Nilai Tambah
-
-NeuroSort dirancang untuk meniru kemampuan mesin pencarian internal pada ekosistem enterprise, namun dijalankan secara lokal untuk menjaga privasi dan kontrol penuh terhadap data. Arsitekturnya mencerminkan praktik terbaik dalam pengelolaan pipeline NLP, pemisahan logika, serta penggunaan database relasional sebagai fondasi metadata yang kuat.
+Kita sering punya banyak dokumen, tapi susah nyari yang kita butuh. Proyek ini bantu kamu cari dan kelola dokumen dengan sistem yang mirip pencarian pintar seperti Google Drive, tapi semuanya offline dan kamu yang punya kontrol penuh. Cocok lah yang peduli privasi dan ingin solusi praktis tapi canggih.
