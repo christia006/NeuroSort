@@ -1,0 +1,1 @@
+Web development involves creating and maintaining websites and web applications. It can be broadly categorized into frontend development (what users see and interact with, using HTML, CSS, JavaScript) and backend development (server-side logic, databases, APIs, using languages like Python, Node.js, PHP). Full-stack developers handle both.
