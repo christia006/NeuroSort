@@ -6,8 +6,7 @@
 
 ## 🎯 Tujuan Utama
 
-NeuroSort hadir untuk membantu pengguna menemukan dokumen penting dengan cepat dan cerdas menggunakan teknologi NLP dan machine learning.  
-Tidak perlu lagi menebak nama file atau lokasi folder—cukup ketik apa yang ingin ditemukan, dan NeuroSort akan mencarikannya berdasarkan isi.
+NeuroSort hadir untuk membantu pengguna menemukan dokumen penting dengan cepat dan cerdas menggunakan teknologi NLP dan machine learning.  Tidak perlu lagi menebak nama file atau lokasi folder—cukup ketik apa yang ingin ditemukan, dan NeuroSort akan mencarikannya berdasarkan isi.
 
 ---
 
