@@ -67,8 +67,9 @@ NeuroSort hadir untuk membantu pengguna menemukan dokumen penting dengan cepat d
 | 🌐 Panduan Pengembangan Web | ![](image/website%20development%20guide.png) |
 | 🚪 Keluar atau Simpan Hasil | ![](image/exit.png) |
 | 🔁 Proses Perubahan & Ekstraksi | ![](image/change.png) |
-| 📋 Tampilan Isi Tabel PostgreSQL | ![](image/tampilan%20isi%20tabel%20document.png) |
 | 🗃️ Struktur Database | ![](image/databases.png) |
+| 📋 Tampilan Isi Tabel PostgreSQL | ![](image/tampilan%20isi%20tabel%20document.png) |
+
 
 ---
 
