@@ -73,5 +73,4 @@ NeuroSort hadir untuk membantu pengguna menemukan dokumen penting dengan cepat d
 
 ---
 
-> 💡 Proyek ini dirancang agar dapat menarik perhatian perusahaan besar seperti Google, dengan pendekatan **AI praktis**, **arsitektur modular**, dan **pengolahan data cerdas yang menjaga privasi pengguna sepenuhnya.**
 
