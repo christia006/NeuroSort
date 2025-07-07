@@ -62,9 +62,9 @@ NeuroSort hadir untuk membantu pengguna menemukan dokumen penting dengan cepat d
 | 💡 Konsep Kecerdasan Buatan | ![](image/ai%20concept.png) |
 | 📊 Teknik Analisis Data | ![](image/data%20analysis%20teknik.png) |
 | 🌐 Panduan Pengembangan Web | ![](image/website%20development%20guide.png) |
-| 🧠 Arsitektur Pemrosesan | ![](image/common.png) |
-| 🌐 Pemahaman Bahasa | ![](image/languange%20understanding.png) |
 | 🔐 Jaringan & Proteksi Data | ![](image/network%20dan%20data.png) |
+| 🌐 Pemahaman Bahasa | ![](image/languange%20understanding.png) |
+| 🧠 Arsitektur Pemrosesan | ![](image/common.png) |
 | 🚪 Keluar atau Simpan Hasil | ![](image/exit.png) |
 | 🔁 Proses Perubahan & Ekstraksi | ![](image/change.png) |
 | 🗃️ Struktur Database | ![](image/databases.png) |
