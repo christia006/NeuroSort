@@ -1,19 +1,22 @@
-# 🧠 NeuroSort — Klasifikasi & Pencarian Dokumen Cerdas Berbasis AI Lokal
+<div align="center">
 
-**NeuroSort** adalah aplikasi AI lokal yang dapat membaca, memahami, mengklasifikasikan, dan mencari dokumen berbasis isi langsung dari komputer pribadi, tanpa koneksi internet, tanpa API key, dan tanpa risiko privasi.
+# **🧠 NeuroSort — Klasifikasi & Pencarian Dokumen Cerdas Berbasis AI Lokal**
 
+*NeuroSort adalah aplikasi AI lokal yang dapat membaca, memahami, mengklasifikasikan, dan mencari dokumen berbasis isi langsung dari komputer pribadi, tanpa koneksi internet, tanpa API key, dan tanpa risiko privasi.*
 
 ---
 
 ## ⚙️ Teknologi Inti
 
-- **Python 3.10+**
-- **spaCy** untuk NLP
-- **scikit-learn (TF-IDF)** untuk representasi isi dokumen
-- **PostgreSQL + SQLAlchemy** untuk penyimpanan data
-- **Streamlit** (opsional) untuk antarmuka visual
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-00A6E8?logo=spacy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-f7931e?logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-d74e09?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Optional%20UI-ff4b4b?logo=streamlit&logoColor=white)
 
----
+</div>
+
 
 ## 🔄 Cara Kerja Program
 
@@ -37,18 +40,6 @@
 
 ---
 
-## 🔍 Contoh Pencarian & Hasil yang Diharapkan
-
-| 💬 Query                          | 🔎 Hasil yang Diharapkan                                                                 |
-|----------------------------------|------------------------------------------------------------------------------------------|
-| **artificial intelligence concepts**  | Dokumen seperti *NLP Basics*, *Machine Learning Overview* akan muncul teratas            |
-| **data analysis techniques**         | Dokumen tentang *Data Science*, *Machine Learning*                                       |
-| **website development guide**       | Dokumen seperti *Web Development Basics* paling relevan                                  |
-| **network and data protection**     | *Cybersecurity Fundamentals* akan jadi prioritas utama                                   |
-| **language understanding technology** | *NLP Basics* harus muncul paling relevan                                                 |
-| **common cyber threats**            | *Cybersecurity Fundamentals* akan muncul kembali di posisi teratas                       |
-
----
 
 ## 🖼️ Visualisasi Program
 
@@ -67,5 +58,5 @@
 
 
 ---
-
+@christian J Hutahaean
 
