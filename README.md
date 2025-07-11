@@ -1,19 +1,25 @@
 <div align="center">
 
-# **🧠 NeuroSort — Klasifikasi & Pencarian Dokumen Cerdas Berbasis AI Lokal**
+# **🧠 NeuroSort — Smart Local Document Classification & Search**
 
-*NeuroSort adalah aplikasi AI lokal yang dapat membaca, memahami, mengklasifikasikan, dan mencari dokumen berbasis isi langsung dari komputer pribadi, tanpa koneksi internet, tanpa API key, dan tanpa risiko privasi.*
+*Read, understand, and classify documents directly on your PC — no internet, no API keys, no privacy risk.*
 
----
+[![last commit](https://img.shields.io/badge/last%20commit-today-brightgreen)](#)
+[![Python](https://img.shields.io/badge/python-100%25-yellow?logo=python&logoColor=white)](#)
+[![local AI](https://img.shields.io/badge/runs%20locally-100%25-success)](#)
 
-## ⚙️ Teknologi Inti
+*Built with the tools and technologies:*
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-NLP-00A6E8?logo=spacy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-f7931e?logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-d74e09?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Optional%20UI-ff4b4b?logo=streamlit&logoColor=white)
+
+![Local AI](https://img.shields.io/badge/Local%20AI%20Model-💻-important)
+![Fast Search](https://img.shields.io/badge/Fast%20TF--IDF%20Search-⚡-success)
+![Private](https://img.shields.io/badge/Privacy%20First-🔒-blue)
 
 </div>
 
