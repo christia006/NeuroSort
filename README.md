@@ -2,20 +2,6 @@
 
 **NeuroSort** adalah aplikasi AI lokal yang dapat membaca, memahami, mengklasifikasikan, dan mencari dokumen berbasis isi langsung dari komputer pribadi, tanpa koneksi internet, tanpa API key, dan tanpa risiko privasi.
 
----
-
-# 🎯 Contoh Kasus Nyata 
-
-
-
-| **Domain**              | **Studi Kasus**                                                                                             | **Solusi dengan NeuroSort**                                                                                                                                          |
-|--------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Hukum & Legal**        | Firma hukum ingin mencari dokumen kontrak berdasarkan konteks isi, bukan hanya judul atau kata kunci        | NeuroSort mengindeks dokumen kontrak menggunakan TF-IDF dan spaCy, memungkinkan pencarian semantik seperti "klausul kerahasiaan" meskipun tidak disebutkan eksplisit |
-| **Perusahaan Riset**     | Peneliti ingin mengelompokkan ribuan file laporan ilmiah sesuai bidang (misal, bioteknologi, AI, dsb)       | Sistem klasifikasi NeuroSort mengklasifikasikan dokumen secara otomatis berdasarkan kemiripan semantik dan metadata yang disimpan di PostgreSQL                     |
-| **Pendidikan**           | Dosen ingin mencari materi kuliah lama yang membahas topik tertentu meskipun judul file tidak jelas         | Dengan pencocokan konteks isi dokumen, dosen dapat mengetik query seperti "penjelasan supervised learning" dan sistem akan mencocokkan file yang relevan             |
-| **Media & Arsip**        | Editor majalah ingin mengelola arsip artikel lama dengan pengelompokan otomatis                             | NeuroSort menyortir dan mengklasifikasikan artikel ke dalam topik-topik utama (politik, kesehatan, teknologi, dll.) untuk memudahkan pencarian                      |
-| **Organisasi Pemerintah**| Pegawai ingin mencari notulen rapat yang relevan dengan suatu kebijakan                                     | Sistem memungkinkan pencarian cerdas seperti "kebijakan subsidi pendidikan" tanpa harus menelusuri semua dokumen satu per satu                                      |
-
 
 ---
 
